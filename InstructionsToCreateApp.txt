@@ -17,7 +17,7 @@ mvn archetype:generate -DgroupId=com.staragile.test	-DartifactId=test -Darchetyp
 copy the following in pom.xml
 --------------------
   	
-	<properties>
+	<properties> 
 		<java.version>11</java.version>
 	</properties>
   
