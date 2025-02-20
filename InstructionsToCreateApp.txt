@@ -2,7 +2,7 @@
 
 
 Install dependencies
-	Insall java 
+	Insall java  
 		https://phoenixnap.com/kb/install-java-windows
 	Install maven 
 		https://phoenixnap.com/kb/install-maven-windows
