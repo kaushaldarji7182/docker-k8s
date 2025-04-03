@@ -2,7 +2,7 @@
 
 The Docker Engine needs to be explicitly setup to use HTTP for the insecure registry. 
 ## Edit or create /etc/docker/docker file:
-	
+##testing
 	$ sudo vi /etc/docker/docker
 
 	# add this line
